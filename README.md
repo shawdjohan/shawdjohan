@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shawdjohan
 - 👀 I’m interested in JavaScript, Web Development, Mobile Application Programming, Python, Machine Learning
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on WebDevelopment, Mobile Development
+- 💞️ I’m looking to collaborate on Web Development, Mobile Development
 - 📫 How to reach me : email (syauqi_dd@yahoo.com), Discord (#Goldtweaker 2909)
 
 <!---
